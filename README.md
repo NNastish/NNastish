@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, меня зовут Настя и я начинающий front-end разработчик 👋
 
 <!--
 **NNastish/NNastish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
