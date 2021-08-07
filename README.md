@@ -12,6 +12,8 @@
 ![backend framework](https://img.shields.io/badge/express-Framework-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) -->
 
 [![NNastish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNastish)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNastish)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Actual text -->
 
