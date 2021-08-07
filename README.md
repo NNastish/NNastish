@@ -10,8 +10,8 @@
 
 
 ![frontend framework](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=000000)
-![backend](https://img.shields.io/badge/node.js-Backend-informational?style=flat&logo=node.js&logoColor=white&color=000000)
-![backend framework](https://img.shields.io/badge/express-Framework-informational?style=flat&logo=express&logoColor=white&color=000000)
+![backend](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=white&color=000000)
+![backend framework](https://img.shields.io/badge/express-informational?style=flat&logo=express&logoColor=white&color=000000)
 
 <!-- Contacts -->
 
