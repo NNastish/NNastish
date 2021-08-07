@@ -9,9 +9,10 @@
 ![language](https://img.shields.io/badge/WebPack-informational?style=for-the-badge&logo=Webpack&logoColor=white&color=0D1017)
 ![version control system](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=Git&logoColor=white&color=0D1017)
 ![IDE](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=Webstorm&logoColor=white&color=0D1017)
-![frontend framework](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=white&color=0D1017)
+
+<!-- ![frontend framework](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=white&color=0D1017)
 ![backend](https://img.shields.io/badge/node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=0D1017)
-![backend framework](https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white&color=0D1017)
+![backend framework](https://img.shields.io/badge/express-informational?style=for-the-badge&logo=express&logoColor=white&color=0D1017) -->
 
 <!-- Contacts -->
 
@@ -26,10 +27,14 @@
 <!-- DashBoards -->
 
 ## Моя статистика: 
-[![NNastish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNastish&show_icons=true&bg_color=0D1017&title_color=FFFFFF&text_color=FFFFFF&border_color=0D1017&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNastish&show_icons=true&bg_color=0D1017&title_color=FFFFFF&text_color=FFFFFF&border_color=0D1017&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <div>[![NNastish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNastish&show_icons=true&bg_color=0D1017&title_color=FFFFFF&text_color=FFFFFF&border_color=0D1017&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)</div>
+  <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNastish&show_icons=true&bg_color=0D1017&title_color=FFFFFF&text_color=FFFFFF&border_color=0D1017&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 
 <!-- Pikachu Cute Power -->
-<img align="center" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif" width="800x">
+  <div>
+    <img align="center" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif" width="800x">
+  </div>
+</div>
 
