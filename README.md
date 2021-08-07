@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/NNastish/NNastish/readme_header.png "Header")](https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif)
+[![Header]<img align="center" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif" width="492px">
 
 ### Hi, меня зовут Настя и я начинающий front-end разработчик 👋
 
