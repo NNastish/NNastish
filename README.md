@@ -1,6 +1,6 @@
 ### Hi, меня зовут Настя и я начинающий front-end разработчик 👋
 
-![language](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=red&color=000000)
+![language](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=000000)
 ![language](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=000000)
 ![language](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=000000)
 ![language](https://img.shields.io/badge/WebPack-informational?style=for-the-badge&logo=Webpack&logoColor=white&color=000000)
@@ -12,6 +12,21 @@
 ![backend framework](https://img.shields.io/badge/express-Framework-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) -->
 
 [![NNastish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNastish)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Actual text -->
+
+<!-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. -->
+Вы можете найти меня в [![Твиттере][1.2]][1], [![Телеграмм][2.2]][2]
+
+<!-- Icons -->
+
+[1.2]: https://img.shields.io/badge/logo=Twitter
+<!-- [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) -->
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+<!-- [2]: https://www.linkedin.com/in/heinz-martin/ -->
 
 
 <!--
