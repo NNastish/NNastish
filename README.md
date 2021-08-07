@@ -9,9 +9,9 @@
 ![IDE](https://img.shields.io/badge/WebStorm-informational?style=for-the-badge&logo=Webstorm&logoColor=white&color=000000)
 
 
-<!-- ![frontend framework](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![backend](https://img.shields.io/badge/node.js-Backend-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![backend framework](https://img.shields.io/badge/express-Framework-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) -->
+![frontend framework](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=000000)
+![backend](https://img.shields.io/badge/node.js-Backend-informational?style=flat&logo=node.js&logoColor=white&color=000000)
+![backend framework](https://img.shields.io/badge/express-Framework-informational?style=flat&logo=express&logoColor=white&color=000000)
 
 <!-- Contacts -->
 
