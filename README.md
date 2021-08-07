@@ -1,10 +1,10 @@
 ### Hi, меня зовут Настя и я начинающий front-end разработчик 👋
 
-![language](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=000000)
-![language](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=2bbc8a)
-![language](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=2bbc8a)
-![language](https://img.shields.io/badge/WebPack-informational?style=for-the-badge&logo=Webpack&logoColor=white&color=2bbc8a)
-![version control system](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=Git&logoColor=white&color=2bbc8a)
+![language](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=red&color=000000)
+![language](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=000000)
+![language](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=000000)
+![language](https://img.shields.io/badge/WebPack-informational?style=for-the-badge&logo=Webpack&logoColor=white&color=000000)
+![version control system](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=Git&logoColor=white&color=000000)
 
 
 <!-- ![frontend framework](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
