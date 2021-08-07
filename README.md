@@ -28,7 +28,7 @@
 
 ## Моя статистика: 
 [![NNastish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNastish&show_icons=true&bg_color=0D1017&title_color=FFFFFF&text_color=FFFFFF&border_color=0D1017&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNastish&show_icons=true&bg_color=0D1017&title_color=FFFFFF&text_color=FFFFFF&border_color=0D1017&icon_color=FFFFFF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNastish&show_icons=true&bg_color=0D1017&title_color=FFFFFF&text_color=FFFFFF&border_color=0D1017&icon_color=FFFFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Pikachu Cute Power -->
