@@ -1,4 +1,4 @@
-[![Header]<img align="center" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif" width="492px">
+
 
 ### Hi, меня зовут Настя и я начинающий front-end разработчик 👋
 
@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNastish&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=000000&icon_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<img align="center" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif" width="492px">
 
 
 <!--
