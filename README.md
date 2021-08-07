@@ -1,5 +1,8 @@
 ### Hi, меня зовут Настя и я начинающий front-end разработчик 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NNastish=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **NNastish/NNastish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
