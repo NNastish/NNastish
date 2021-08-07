@@ -11,7 +11,7 @@
 ![backend](https://img.shields.io/badge/node.js-Backend-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![backend framework](https://img.shields.io/badge/express-Framework-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) -->
 
-[![NNastish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNastish)](https://github.com/anuraghazra/github-readme-stats)
+[![NNastish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNastish&show_icons=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNastish)](https://github.com/anuraghazra/github-readme-stats)
 
 
