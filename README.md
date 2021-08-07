@@ -1,6 +1,6 @@
 ### Hi, меня зовут Настя и я начинающий front-end разработчик 👋
 
-![language](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![language](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![language](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![language](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![language](https://img.shields.io/badge/WebPack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)
