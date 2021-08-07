@@ -16,7 +16,7 @@
 <!-- Actual text -->
 
 <!-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. -->
-Вы можете найти меня в Твиттере[1], Телеграмм[2]
+Вы можете найти меня в [Твиттере][1], [Телеграмм][2]
 
 <!-- Links to my social media accounts -->
 
