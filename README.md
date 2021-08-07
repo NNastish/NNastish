@@ -20,12 +20,12 @@
 
 <!-- Icons -->
 
-[1.2]: https://img.shields.io/badge/informational?style=for-the-badge&logo=Twitter
+[1.2]: https://img.shields.io/badge/logo=Twitter
 <!-- [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) -->
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/an_nvkv
 <!-- [2]: https://www.linkedin.com/in/heinz-martin/ -->
 
 
